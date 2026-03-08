@@ -1,8 +1,4 @@
-<div align="center">
-
 <img src="https://gacwr.org/img/mask.png" width="20%" alt="GACWR" />
-
-<br />
 
 # Georgia Cyber Warfare Range
 
@@ -11,8 +7,6 @@
 We build tools that put power back in the hands of practitioners: security analysts, data scientists, and developers. Everything we ship is open source, designed for real-world use, and built to run on hardware you already own.
 
 ---
-
-</div>
 
 ## Projects
 
