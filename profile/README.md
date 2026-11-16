@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/61644903?s=200&v=4" width="120" alt="GACWR" />
+<img src="https://gacwr.org/img/mask.png" width="20%" alt="GACWR" />
 
 # Georgia Cyber Warfare Range
 
