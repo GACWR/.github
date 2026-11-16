@@ -56,7 +56,7 @@ We build tools that put power back in the hands of practitioners: security analy
 
 ---
 
-<img src="https://rugsafe.io/_next/static/media/logo5.7217ba98.png" height="60" />
+<img src="https://gacwr.org/img/rs.png" height="60" />
 
 ### RugSafe — A Multichain DeFi Protocol for recovering from & defending against Rug Pulls
 
